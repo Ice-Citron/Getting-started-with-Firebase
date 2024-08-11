@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "Initialisation, first time playing with javascript etc.",
   "dependencies": {
-    "firebase": "^10.12.5"
+    "firebase": "^10.12.5",
+    "serve": "^14.2.3"
   },
   "devDependencies": {
     "webpack": "^5.93.0",

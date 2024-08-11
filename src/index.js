@@ -28,6 +28,7 @@ onAuthStateChanged(auth, (user) => {
 
 
 
+// npm install -g serve
 // npm i webpack webpack-cli -D 
 // node_modules/.bin/webpack --mode=development --entry ./src/index.js -o dist
 
